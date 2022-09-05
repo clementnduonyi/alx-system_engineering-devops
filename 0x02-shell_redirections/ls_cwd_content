@@ -1,0 +1,16 @@
+total 56
+drwxrwxr-x 2 clement clement 4096 Sep  5 23:44 .
+drwxrwxr-x 6 clement clement 4096 Sep  5 18:19 ..
+-rwxrwxr-x 1 clement clement   32 Sep  5 18:19 0-hello_world
+-rwxrw-r-- 1 clement clement   28 Sep  5 18:45 1-confused_smiley
+-rwxrw-r-- 1 clement clement   28 Sep  5 19:38 2-hellofile
+-rwxrw-r-- 1 clement clement   39 Sep  5 19:12 3-twofiles
+-rwxrw-r-- 1 clement clement   35 Sep  5 19:56 4-lastlines
+-rwxrw-r-- 1 clement clement   35 Sep  5 20:26 5-firstlines
+-rwxrw-r-- 1 clement clement   36 Sep  5 22:27 6-third_line
+-rwxrw-r-- 1 clement clement   83 Sep  5 23:34 7-file
+-rwxrw-r-- 1 clement clement   44 Sep  5 23:44 8-cwd_state
+-rw-rw-r-- 1 clement clement   38 Sep  5 23:23 \*\'Best
+-rw-rw-r-- 1 clement clement  714 Sep  5 22:21 iacta
+-rw-rw-r-- 1 clement clement    0 Sep  5 23:44 ls_cwd_content
+-rw-rw-r-- 1 clement clement 2674 Sep  5 20:17 README.md
